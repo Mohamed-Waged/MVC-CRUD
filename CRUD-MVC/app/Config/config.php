@@ -1,6 +1,5 @@
 <?php 
 
-// define("BURL","http://localhost:800/");
 define("BURL","http://crud_mvc.local/");
 
 define("DB_HOST","localhost");
